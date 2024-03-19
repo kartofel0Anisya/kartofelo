@@ -18,6 +18,8 @@ public class JavaApplication1 {
      System.out.println("нОВАЯ2");
         System.out.println("нОВАЯ2");
         System.out.println("нОВАЯ2");
+     
+        System.out.println("НОВАЯ ВЕТКА");
     }
     
 }
